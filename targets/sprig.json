@@ -1,0 +1,6 @@
+{
+    "inherits": [
+        "pico"
+    ],
+    "build-tags": ["sprig"]
+}

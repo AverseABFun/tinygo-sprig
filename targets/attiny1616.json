@@ -1,7 +1,7 @@
 {
     "inherits": ["avrtiny"],
     "cpu": "attiny1616",
-    "build-tags": ["attiny1616"],
+    "build-tags": ["attiny1616", "avrwatchdog"],
     "gc": "none",
     "cflags": [
         "-D__AVR_ARCH__=103"
